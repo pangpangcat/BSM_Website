@@ -1,0 +1,12 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(235, 238, 4);
+    color: rgb(9, 0, 0);
+    text-align: center;
+}
+
+.col-lg-2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
